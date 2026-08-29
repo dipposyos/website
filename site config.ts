@@ -6,8 +6,8 @@
 export const content = {
   company: 'Palapa Coffee',
   links: {
-    whatsapp: 'https://wa.me/6281234567890',
-    email: 'hello@palapacoffee.co',
+    whatsapp: 'https://wa.me/6281212158146',
+    email: 'magci.dippos@gmail.com',
     instagram: 'https://instagram.com/palapacoffee',
   },
   address: 'Bandung, West Java, Indonesia',
